@@ -1,0 +1,38 @@
+body {
+    background-color: #3d0051;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-box {
+    width: 100%;
+    max-width: 400px;
+    background-color: #3d0051;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+.btn-primary {
+    background-color: #00c8f8;
+    border: none;
+    border-radius: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
